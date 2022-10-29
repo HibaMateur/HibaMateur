@@ -12,7 +12,7 @@ I am a full-stack software engineer. I love programming, writing, reading and tr
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/HibaMateur/HibaMateur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/HibaMateur/HibaMateur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning MEARN Stack;
+- <img src="https://github.com/HibaMateur/HibaMateur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning MERN Stack;
 - <img src="https://github.com/HibaMateur/HibaMateur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/HibaMateur/HibaMateur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hiba.mateur@esprit.tn;
 
