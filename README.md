@@ -19,3 +19,4 @@ I am a full-stack software engineer. I love programming, writing, reading and tr
 </br>
 
 <img align="right" alt="GIF" src="https://github.com/HibaMateur/HibaMateur/blob/main/assets/tumblr_o15psoWrvr1v3hrzlo2_1280.gif?raw=true"   />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HibaMateur=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
