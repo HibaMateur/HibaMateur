@@ -23,4 +23,4 @@ I am a full-stack software engineer. I love programming, writing, reading and tr
 
 ### My Most Used Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaMateur&layout=compact)](https://github.com/HibaMateur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HibaMateur)](https://github.com/HibaMateur/github-readme-stats)
